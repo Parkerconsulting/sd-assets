@@ -1,0 +1,1 @@
+﻿# sedura product image assets
